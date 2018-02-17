@@ -1,11 +1,10 @@
 # Beamer Template
 
-这是一个学术性的LaTeX Beamer模板，优点是非常简洁，适用于多公式，多算法的应用场景，缺点是不非常灵活。
-当然你也可以随意使用这个模板而不用经过我的同意，因为你本来就不需要。
+这是一个学术性的LaTeX Beamer模板，优点是非常简洁，适用于多公式，多算法的应用场景，缺点是不非常灵活。你也可以随意使用和修改这个模板而不用经过我的同意，因为你本来就不需要。
 
 # Usage
 
-首先，你应当从[Github]()上下载该模板，确保你的电脑（Windows）上安装了Ctex中文套装和TexStudio编辑器（不用担心费用，两者均是开源软件），使用Xelatex编译文档即可。
+首先，你应当从[Github](https://github.com/YiZhiXiaoGuLI/Latex-Beamer-Template)上下载该模板，确保你的电脑（Windows）上安装了Ctex中文套装和TexStudio编辑器（不用担心费用，两者均是开源软件），使用Xelatex编译文档即可。
 
 # Demo
 
